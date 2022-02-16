@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Playlist (Chinese)
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "\u500B\u5225\u6307\u5C0E / \u4E2A\u522B\u6307\u5BFC (When Students Struggle,\
   \ Ask Them to Show You How They Prepare)"
@@ -9,7 +16,7 @@ uid: 274d9644-7eac-90a6-8390-4968ffc28e34
 video_files:
   archive_url: https://archive.org/download/MIT21G.101F14/MIT21G_101F14_Study_Time_Chinese_300k.mp4
   video_captions_file: null
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/dp7gVBLm0OI/default.jpg
   video_transcript_file: null
 video_metadata:
   youtube_id: dp7gVBLm0OI

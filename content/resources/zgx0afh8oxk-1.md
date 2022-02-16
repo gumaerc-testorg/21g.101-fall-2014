@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-101-chinese-i-regular-fall-2014/07381627bea73d464948d136c05274dc_zGx0aFh8oxk.pdf
+file: /media/courses/21g-101-chinese-i-regular-fall-2014/07381627bea73d464948d136c05274dc_zGx0aFh8oxk.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 07381627-bea7-3d46-4948-d136c05274dc

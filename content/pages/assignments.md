@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3bacb5b7-b0ec-8a83-1713-336b4df6d161
 ---
@@ -1547,10 +1550,10 @@ No homework. Work on your Final Oral Interview. Good luck!
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 48-49
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Final Oral Interview: All contents of \[BSC\] Unit 1 to Unit 5.
@@ -1559,7 +1562,7 @@ Follow the preparation guidelines of [Final Oral Interview]({{< baseurl >}}/page
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Final Oral Interview
@@ -1568,7 +1571,7 @@ No regular class! Show up at your Final Oral Interview on time!
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 

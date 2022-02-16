@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 72e39a55-cc88-e4be-4804-361036c26cf0
 ---
@@ -75,20 +77,6 @@ GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![18 tablet desks arranged in rows of 6. Blackboards on the front and side walls. ]({{< resource_file 567d882c-e5b5-23c5-906d-b6447c51c522 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Class sessions were held in a typical classroom with tablet chairs, blackboards, and A/V equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

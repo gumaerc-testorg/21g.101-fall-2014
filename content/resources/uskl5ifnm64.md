@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-101-chinese-i-regular-fall-2014/cd41efd51c071d1268f951432494e817_uskl5IFNM64.srt
+file: /media/courses/21g-101-chinese-i-regular-fall-2014/cd41efd51c071d1268f951432494e817_uskl5IFNM64.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: cd41efd5-1c07-1d12-68f9-51432494e817

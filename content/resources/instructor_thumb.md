@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-101-chinese-i-regular-fall-2014/0699fce4acf81c1a4328b39cd83c390d_instructor_thumb.jpg
+file: /media/courses/21g-101-chinese-i-regular-fall-2014/0699fce4acf81c1a4328b39cd83c390d_instructor_thumb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: instructor_thumb.jpg
 uid: 0699fce4-acf8-1c1a-4328-b39cd83c390d

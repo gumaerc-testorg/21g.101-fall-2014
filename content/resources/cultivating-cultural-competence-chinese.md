@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Playlist (Chinese)
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "\u8A9E\u8A00\u8207\u6587\u5316\u7684\u95DC\u806F / \u8BED\u8A00\u4E0E\u6587\
   \u5316\u7684\u5173\u8054 (Cultivating Cultural Competence)"

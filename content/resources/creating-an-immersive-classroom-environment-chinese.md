@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Playlist (Chinese)
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "\u5168\u4E2D\u6587\u7684\u5B78\u7FD2\u74B0\u5883 / \u5168\u4E2D\u6587\u7684\
   \u5B66\u4E60\u73AF\u5883 (Creating an Immersive Classroom Environment)"
