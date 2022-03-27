@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u6BCF\u65E5\u8A55\u5206 / \u6BCF\u65E5\u8BC4\u5206 (Daily Grading System)"
 uid: f36e3fc0-6f5e-c719-c309-c5f4e83124b9
 video_files:

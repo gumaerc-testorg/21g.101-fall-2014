@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u807D\u8AAA\u9818\u5148\uFF0C\u8B80\u5BEB\u8DDF\u4E0A / \u542C\u8BF4\u9886\
   \u5148\uFF0C\u8BFB\u5199\u8DDF\u4E0A (Speaking and Listening before Reading and\
   \ Writing)"

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u5168\u4E2D\u6587\u7684\u5B78\u7FD2\u74B0\u5883 / \u5168\u4E2D\u6587\u7684\
   \u5B66\u4E60\u73AF\u5883 (Creating an Immersive Classroom Environment)"
 uid: fbd2112a-0be6-b4af-825c-efe98154efc3

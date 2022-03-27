@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: When Students Struggle, Ask Them to Show You How They Prepare
 uid: a064b3f3-65f7-3a57-8be8-932cf97cde20
 video_files:

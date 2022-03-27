@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u4F7F\u7528\u807D\u529B\u5F37\u5316\u4E2D\u6587\u5B78\u7FD2 / \u4F7F\u7528\
   \u542C\u529B\u5F3A\u5316\u4E2D\u6587\u5B66\u4E60 (Listening for Success: The Importance\
   \ of Audio Files)"

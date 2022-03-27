@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u8A9E\u8A00\u8207\u6587\u5316\u7684\u95DC\u806F / \u8BED\u8A00\u4E0E\u6587\
   \u5316\u7684\u5173\u8054 (Cultivating Cultural Competence)"
 uid: e9be21a5-56df-fb09-bd0d-1c8ebc374c2b

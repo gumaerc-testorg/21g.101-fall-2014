@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u81EA\u767C\u5B78\u7FD2 / \u81EA\u53D1\u5B66\u4E60 (Motivating Students)"
 uid: 0cfdff35-190e-5176-0882-f6a5d22d0505
 video_files:
