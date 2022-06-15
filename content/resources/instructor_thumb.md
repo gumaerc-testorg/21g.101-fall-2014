@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-101-chinese-i-regular-fall-2014/0699fce4acf81c1a4328b39cd83c390d_instructor_thumb.jpg
+file: /courses/21g-101-chinese-i-regular-fall-2014/0699fce4acf81c1a4328b39cd83c390d_instructor_thumb.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

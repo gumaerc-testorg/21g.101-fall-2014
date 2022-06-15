@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Playlist (English)
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: In this video, Haohsiang Liao shares that he encourages students to listen to audiofiles or dvds during their preparation for class. He believes learning to trust their ears and focusing on sounds will help them succeed in their Chinese studies.
 
 **Instructor**: Haohsiang Liao
+
+
+

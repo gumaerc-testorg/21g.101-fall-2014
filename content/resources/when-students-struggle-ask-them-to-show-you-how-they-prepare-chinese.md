@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Playlist (Chinese)
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: 在此一專訪中，廖老師分享如何利用個別指導的方法，幫助學生克服中文學習時遇見的困難或瓶頸。/ 在此一专访中，廖老师分享如何利用个别指导的方法，帮助学生克服中文学习时遇见的困难或瓶颈。
 
 **Instructor**: 廖灝翔
+
+
+

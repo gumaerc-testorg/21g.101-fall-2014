@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Playlist (Chinese)
@@ -28,3 +29,6 @@ video_metadata:
 **Description**: 廖老師說明在教導中文時，如何將聽說讀寫等四項技能分開，已達成更有效的中文學習。/ 廖老师说明在教导中文时，如何将听说读写等四项技能分开，已达成更有效的中文学习。
 
 **Instructor**: 廖灝翔
+
+
+

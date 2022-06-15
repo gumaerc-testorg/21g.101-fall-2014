@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-101-chinese-i-regular-fall-2014/ddc689c3b13c716873bbe6dac4d9d376_MIT21G_101F14_Trust_Ears_Chinese.pdf
+file: /courses/21g-101-chinese-i-regular-fall-2014/ddc689c3b13c716873bbe6dac4d9d376_MIT21G_101F14_Trust_Ears_Chinese.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

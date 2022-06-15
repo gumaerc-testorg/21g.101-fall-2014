@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for the oral report and final oral interview
+  required for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Oral Report and Final Oral Interview

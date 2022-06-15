@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Playlist (English)
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: In this video, Haohsiang Liao shares how and why the Chinese I (Regular) curriculum introduces students to speaking and listening before reading and writing.
 
 **Instructor**: Haohsiang Liao
+
+
+

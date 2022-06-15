@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the format and content for each
+  review test of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Review Test Format

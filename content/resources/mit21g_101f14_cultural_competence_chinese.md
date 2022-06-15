@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-101-chinese-i-regular-fall-2014/7a9eb3cf6ecb588295b98d1646a66d39_MIT21G_101F14_Cultural_Competence_Chinese.pdf
+file: /courses/21g-101-chinese-i-regular-fall-2014/7a9eb3cf6ecb588295b98d1646a66d39_MIT21G_101F14_Cultural_Competence_Chinese.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

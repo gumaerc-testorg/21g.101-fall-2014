@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Playlist (Chinese)
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: 語言學習者的角色，從觀光客，觀察者，參與者，contributor到shareholder，廖老師說明MIT中文一的課程目標。/语言学习者的角色，从观光客，观察者，参与者，contributor到shareholder，廖老师说明MIT中文一的课程目标。
 
 **Instructor**: 廖灝翔
+
+
+

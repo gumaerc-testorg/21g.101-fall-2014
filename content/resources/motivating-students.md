@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Playlist (English)
@@ -26,3 +27,6 @@ video_metadata:
 **Description**: In this video, Haohsiang Liao shares a strategy for motivating students to put significant effort into their study of Chinese.
 
 **Instructor**: Haohsiang Liao
+
+
+

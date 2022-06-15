@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on selection criteria for registration, meeting times, instructors, sections, academic
+  conduct, a note on disabilities, learning objectives, evaluation, preparation for
+  classes and policies, classroom etiquette, and final comments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

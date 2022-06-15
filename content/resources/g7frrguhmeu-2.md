@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-101-chinese-i-regular-fall-2014/2392ece42a4355e9be3d35ce83987413_g7frRgUhmeU.vtt
+file: /courses/21g-101-chinese-i-regular-fall-2014/2392ece42a4355e9be3d35ce83987413_g7frRgUhmeU.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-101-chinese-i-regular-fall-2014/f644265dc75bc1a5ab8e0b788acd214e_MIT21G_101F14_Listening_Chinese.srt
+file: /courses/21g-101-chinese-i-regular-fall-2014/f644265dc75bc1a5ab8e0b788acd214e_MIT21G_101F14_Listening_Chinese.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Playlist (Chinese)
@@ -28,3 +29,6 @@ video_metadata:
 **Description**: 廖老師說明在背課文時如何多聽中文錄音來強化中文的學習。/ 廖老师说明在背课文时如何多听中文录音来强化中文的学习。
 
 **Instructor**: 廖灝翔
+
+
+

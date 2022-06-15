@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides recommended study procedures for written and spoken
+  Chinese classes, and links to related resources for students interesting in studying,
+  working, or teaching abroad.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
