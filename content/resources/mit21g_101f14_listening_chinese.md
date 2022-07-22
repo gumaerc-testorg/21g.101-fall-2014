@@ -4,6 +4,7 @@ description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/213c2acebf2af7f717d7db515ee7d0b5_MIT21G_101F14_Listening_Chinese.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: "\u300C\u807D\u8AAA\u9818\u5148\uFF0C\u8B80\u5BEB\u8DDF\u4E0A\u300D / \u300C\

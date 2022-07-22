@@ -4,6 +4,7 @@ description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/10cea907588dea592a27bf452d847a54_MIT21G_101F14_Immersive_Environment_Chinese.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: "\u5168\u4E2D\u6587\u7684\u5B78\u7FD2\u74B0\u5883 / \u5168\u4E2D\u6587\u7684\

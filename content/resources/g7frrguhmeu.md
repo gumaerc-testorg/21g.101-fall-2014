@@ -4,6 +4,7 @@ description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/cbec28a6ecfbc4099c3f445ef1538c59_g7frRgUhmeU.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

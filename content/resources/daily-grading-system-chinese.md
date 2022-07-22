@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: 廖老師解釋中文一的每日評分法及在課堂學習中如何給予學生反饋。/ 廖老师解释中文一的每日评分法及在课堂学习中如何给予学生反馈。
 
 **Instructor**: 廖灝翔
-
-
 

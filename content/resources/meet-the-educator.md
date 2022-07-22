@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description**: In this video, Haohsiang Liao describes his role at MIT and how became interested in teaching Chinese.
 
 **Instructor**: Haohsiang Liao
-
-
 
