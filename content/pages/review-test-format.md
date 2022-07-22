@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the format and content for each
+  review test of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Review Test Format
 uid: 7316babc-c979-09fb-dfed-2ad8827973ac
 ---

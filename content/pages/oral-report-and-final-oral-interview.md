@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides guidelines for the oral report and final oral interview
+  required for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Oral Report and Final Oral Interview
 uid: a2bb5a98-c7ad-7e2b-b81c-9d9069073ba5
 ---

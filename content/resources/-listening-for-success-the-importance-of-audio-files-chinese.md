@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Playlist (Chinese)
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u4F7F\u7528\u807D\u529B\u5F37\u5316\u4E2D\u6587\u5B78\u7FD2 / \u4F7F\u7528\
   \u542C\u529B\u5F3A\u5316\u4E2D\u6587\u5B66\u4E60 (Listening for Success: The Importance\
   \ of Audio Files)"
@@ -19,3 +30,4 @@ video_metadata:
 **Description**: 廖老師說明在背課文時如何多聽中文錄音來強化中文的學習。/ 廖老师说明在背课文时如何多听中文录音来强化中文的学习。
 
 **Instructor**: 廖灝翔
+

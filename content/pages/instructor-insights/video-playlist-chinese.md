@@ -1,8 +1,12 @@
 ---
 content_type: page
+description: ''
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 72e39a55-cc88-e4be-4804-361036c26cf0
 title: Video Playlist (Chinese)
 uid: 380526f1-b053-c43f-6b4a-5417ad0a0743

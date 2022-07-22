@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on before-class preparations, class activities,
+  and after-class homework required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3bacb5b7-b0ec-8a83-1713-336b4df6d161
 ---
@@ -195,7 +200,7 @@ Read \[BSC\] pp. 40–42: The (r) Suffix.
 
 Read \[BWC\] pp. 23–24 and \[BWCPE\] pp. 6–8.
 
-Read "[Recommended Study Procedures for Written Chinese Classes]({{< baseurl >}}/pages/related-resources#Written_Chinese)." Follow the procedures when you prepare for class.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Written Chinese Classes" "#Written_Chinese" %}}." Follow the procedures when you prepare for class.
 
 Memorize the new characters (be sure to know how to write them correctly) and go through all the Reading Exercises for A–1 and A–2 on pp. 28–33 in \[BWC\]. _Do work with audio files on Reading Exercises. You will be required to read them in class_.
 
@@ -255,14 +260,14 @@ Do \[BWCPE\] Character Practice Sheets for A–3 and A–4 (p. 13 and p. 15-simp
 {{< tdopen >}}
 
 
-Review both the \[BSC\] and the \[BWC\] materials you have learned so far. Be ready for [Review Test 1]({{< baseurl >}}/pages/review-test-format#Test_1).
+Review both the \[BSC\] and the \[BWC\] materials you have learned so far. Be ready for {{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 1" "#Test_1" %}}.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Review Test 1]({{< baseurl >}}/pages/review-test-format#Test_1)
+{{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 1" "#Test_1" %}}
 
 \[BSC\] Pronunciation, Romanization, Tones, and Classroom Expressions
 
@@ -282,7 +287,7 @@ Review both the \[BSC\] and the \[BWC\] materials you have learned so far. Be re
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 73 and read the Grammatical and Cultural Notes on pp. 73–78 in \[BSC\].
 
@@ -295,7 +300,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 1 Part 1
 
-Prepare \[BSC\] 1–1 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 1–1 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -315,7 +320,7 @@ Do \[BSCPE\] p. 155 and p. 205 on a separate piece of paper and hand it in in ne
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 80 and read the Grammatical and Cultural Notes on pp. 81–84 in \[BSC\].
 
@@ -328,7 +333,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 1 Part 2
 
-Prepare \[BSC\] 1–2 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 1–2 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -377,7 +382,7 @@ Do \[BWCPE\] Character Practice Sheets for B–1 and B–2 (p. 17 and p. 19-simp
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on pp. 86–87 and read the Grammatical and Cultural Notes on pp. 87–91 in \[BSC\].
 
@@ -390,7 +395,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 1 Part 3
 
-Prepare \[BSC\] 1–3 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 1–3 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -410,7 +415,7 @@ Do \[BSCPE\] p. 157 and p. 207 _on a separate piece of paper_ and hand it in in 
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on pp. 93–94 and read the Grammatical and Cultural Notes on pp. 94–98 in \[BSC\].
 
@@ -423,7 +428,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 1 Part 4
 
-Prepare \[BSC\] 1–4 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 1–4 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -505,14 +510,14 @@ n/a
 {{< tdopen >}}
 
 
-Review all the contents of both \[BSC\] Unit 1 and \[BWC\] Unit B. Be ready for [Review Test 2]({{< baseurl >}}/pages/review-test-format#Test_2).
+Review all the contents of both \[BSC\] Unit 1 and \[BWC\] Unit B. Be ready for {{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 2" "#Test_2" %}}.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Review Test 2]({{< baseurl >}}/pages/review-test-format#Test_2)
+{{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 2" "#Test_2" %}}
 
 \[BSC\] Unit 1
 
@@ -536,7 +541,7 @@ n/a
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on pp. 103–4 and read the Grammatical and Cultural Notes on pp. 104–9 in \[BSC\].
 
@@ -549,7 +554,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 2 Part 1
 
-Prepare \[BSC\] 2–1 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 2–1 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -569,7 +574,7 @@ Do \[BSCPE\] p. 159 and p. 209 on a separate piece of paper and hand it in in ne
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 112 and read the Grammatical and Cultural Notes on pp. 112–7 in \[BSC\].
 
@@ -582,7 +587,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 2 Part 2
 
-Prepare \[BSC\] 2–2 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 2–2 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -637,7 +642,7 @@ Hand in the following homework in next class.
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 120 and read the Grammatical and Cultural Notes on pp. 120–7 in \[BSC\].
 
@@ -650,7 +655,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 2 Part 3
 
-Prepare \[BSC\] 2–3 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 2–3 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -670,7 +675,7 @@ Do \[BSCPE\] p. 161 and p. 211 on a separate piece of paper and hand it in in ne
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 130 and read the Grammatical and Cultural Notes on pp. 130–4 in \[BSC\].
 
@@ -683,7 +688,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 2 Part 4
 
-Prepare \[BSC\] 2–4 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 2–4 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -771,14 +776,14 @@ n/a
 {{< tdopen >}}
 
 
-Review all the contents of both \[BSC\] Unit 2 and \[BWC\] Unit 1. Be ready for [Review Test 3]({{< baseurl >}}/pages/review-test-format#Test_3).
+Review all the contents of both \[BSC\] Unit 2 and \[BWC\] Unit 1. Be ready for {{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 3" "#Test_3" %}}.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Review Test 3]({{< baseurl >}}/pages/review-test-format#Test_3)
+{{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 3" "#Test_3" %}}
 
 \[BSC\] Unit 2
 
@@ -800,7 +805,7 @@ n/a
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 140 and read the Grammatical and Cultural Notes on pp. 140–3.
 
@@ -813,7 +818,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 3 Part 1
 
-Prepare \[BSC\] 3–1 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 3–1 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -833,7 +838,7 @@ Do \[BSCPE\] p. 163 and p. 213 _on a separate piece of paper_ and hand it in in 
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 146 and read the Grammatical and Cultural Notes on pp. 146–0 in \[BSC\].
 
@@ -846,7 +851,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 3 Part 2
 
-Prepare \[BSC\] 3–2 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 3–2 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -901,7 +906,7 @@ BWC PE Character Practice Sheets for 2–1 and 2–2 (p. 33 and p. 35-simplified
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on pp. 152–3 and read the Grammatical and Cultural Notes on pp. 153–8 in \[BSC\].
 
@@ -914,7 +919,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 3 Part 3
 
-Prepare \[BSC\] 3–3 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 3–3 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -934,7 +939,7 @@ Do \[BSCPE\] p. 165 and p. 215 _on a separate piece of paper_ and hand it in in 
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 161 and read the Grammatical and Cultural Notes on pp. 161–5 in \[BSC\].
 
@@ -947,7 +952,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 3 Part 4
 
-Prepare \[BSC\] 3–4 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 3–4 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1035,14 +1040,14 @@ n/a
 {{< tdopen >}}
 
 
-Follow the guidelines of [Oral Report]({{< baseurl >}}/pages/oral-report-and-final-oral-interview). We look forward to your performance.
+Follow the guidelines of {{% resource_link a2bb5a98-c7ad-7e2b-b81c-9d9069073ba5 "Oral Report" %}}. We look forward to your performance.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Oral Report]({{< baseurl >}}/pages/oral-report-and-final-oral-interview)
+{{% resource_link a2bb5a98-c7ad-7e2b-b81c-9d9069073ba5 "Oral Report" %}}
 
 
 {{< tdclose >}}
@@ -1062,14 +1067,14 @@ n/a
 {{< tdopen >}}
 
 
-Review all the contents of both \[BSC\] Unit 3 and \[BWC\] Unit 2. Be ready for [Review Test 4]({{< baseurl >}}/pages/review-test-format#Test_4).
+Review all the contents of both \[BSC\] Unit 3 and \[BWC\] Unit 2. Be ready for {{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 4" "#Test_4" %}}.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Review Test 4]({{< baseurl >}}/pages/review-test-format#Test_4)
+{{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 4" "#Test_4" %}}
 
 
 {{< tdclose >}}
@@ -1089,7 +1094,7 @@ n/a
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on pp. 170–1 and read the Grammatical and Cultural Notes on pp. 171–3 in \[BSC\].
 
@@ -1102,7 +1107,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 4 Part 1
 
-Prepare \[BSC\] 4–1 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 4–1 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1122,7 +1127,7 @@ Do \[BSCPE\] p. 167 and p. 217 _on a separate piece of paper_ and hand it in in 
 {{< tdopen >}}
 
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 176 and read the Grammatical and Cultural Notes on pp. 177–81 in \[BSC\].
 
@@ -1135,7 +1140,7 @@ Memorize Basic Conversation for in-class performance.
 
 \[BSC\] Unit 4 Part 2
 
-Prepare \[BSC\] 4–2 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 4–2 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1192,7 +1197,7 @@ Hand in the following homework in next class.
 
 Memorize Basic Conversation for in-class performance.
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 184 and read the Grammatical and Cultural Notes on pp. 184–7 in \[BSC\].
 
@@ -1203,7 +1208,7 @@ Be familiar with the Supplementary Vocabulary on p. 184 and read the Grammatical
 
 \[BSC\] Unit 4 Part 3
 
-Prepare \[BSC\] 4–3 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 4–3 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1225,7 +1230,7 @@ Do \[BSCPE\] p. 169 and p. 219 _on a separate piece of paper_ and hand it in in 
 
 Memorize Basic Conversation for in-class performance.
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on pp. 189–190 and read the Grammatical and Cultural Notes on pp. 190–2 in \[BSC\].
 
@@ -1236,7 +1241,7 @@ Be familiar with the Supplementary Vocabulary on pp. 189–190 and read the Gram
 
 \[BSC\] Unit 4 Part 4
 
-Prepare \[BSC\] 4–4 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 4–4 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1324,14 +1329,14 @@ n/a
 {{< tdopen >}}
 
 
-Review all the contents of both \[BSC\] Unit 4 and \[BWC\] Unit 3. Be ready for [Review Test 5]({{< baseurl >}}/pages/review-test-format#Test_5).
+Review all the contents of both \[BSC\] Unit 4 and \[BWC\] Unit 3. Be ready for {{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 5" "#Test_5" %}}.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Review Test 5]({{< baseurl >}}/pages/review-test-format#Test_5)
+{{% resource_link 7316babc-c979-09fb-dfed-2ad8827973ac "Review Test 5" "#Test_5" %}}
 
 \[BSC\] Unit 4
 
@@ -1355,7 +1360,7 @@ n/a
 
 Memorize Basic Conversation for in-class performance.
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 198 (_especially 1_) and read the Grammatical and Cultural Notes on pp. 198–202 in \[BSC\].
 
@@ -1366,7 +1371,7 @@ Be familiar with the Supplementary Vocabulary on p. 198 (_especially 1_) and rea
 
 \[BSC\] Unit 5 Part 1
 
-Prepare \[BSC\] 5–1 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 5–1 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1388,7 +1393,7 @@ Do \[BSCPE\] p. 171 and p. 221 _on a separate piece of paper_ and hand it in in 
 
 Memorize Basic Conversation for in-class performance.
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 205 and read the Grammatical and Cultural Notes on pp. 205–08 in \[BSC\].
 
@@ -1399,7 +1404,7 @@ Be familiar with the Supplementary Vocabulary on p. 205 and read the Grammatical
 
 \[BSC\] Unit 5 Part 2
 
-Prepare \[BSC\] 5–2 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 5–2 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1456,7 +1461,7 @@ Hand in the following homework in next class.
 
 Memorize Basic Conversation for in-class performance.
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on p. 211 and read the Grammatical and Cultural Notes on pp. 211–5 in \[BSC\].
 
@@ -1467,7 +1472,7 @@ Be familiar with the Supplementary Vocabulary on p. 211 and read the Grammatical
 
 \[BSC\] Unit 5 Part 3
 
-Prepare \[BSC\] 5–3 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 5–3 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1489,7 +1494,7 @@ Do \[BSCPE\] p. 173 and p. 223 _on a separate piece of paper_ and hand it in in 
 
 Memorize Basic Conversation for in-class performance.
 
-Read "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)" and follow the procedures for preparation.
+Read "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}" and follow the procedures for preparation.
 
 Be familiar with the Supplementary Vocabulary on pp. 218–19 (take advantages of the suffixes) and read the Grammatical and Cultural Notes on pp. 219–22 in \[BSC\].
 
@@ -1500,7 +1505,7 @@ Be familiar with the Supplementary Vocabulary on pp. 218–19 (take advantages o
 
 \[BSC\] Unit 5 Part 4
 
-Prepare \[BSC\] 5–4 as per "[Recommended Study Procedures for Spoken Chinese Classes]({{< baseurl >}}/pages/related-resources#Spoken_Chinese)."
+Prepare \[BSC\] 5–4 as per "{{% resource_link e17ab0a8-6d79-48e0-c0b2-78f06fc68b82 "Recommended Study Procedures for Spoken Chinese Classes" "#Spoken_Chinese" %}}."
 
 
 {{< tdclose >}}
@@ -1547,19 +1552,19 @@ No homework. Work on your Final Oral Interview. Good luck!
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 48-49
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Final Oral Interview: All contents of \[BSC\] Unit 1 to Unit 5.
 
-Follow the preparation guidelines of [Final Oral Interview]({{< baseurl >}}/pages/oral-report-and-final-oral-interview). We look forward to seeing what you can achieve with the Chinese you have learned from this course.
+Follow the preparation guidelines of {{% resource_link a2bb5a98-c7ad-7e2b-b81c-9d9069073ba5 "Final Oral Interview" %}}. We look forward to seeing what you can achieve with the Chinese you have learned from this course.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Final Oral Interview
@@ -1568,7 +1573,7 @@ No regular class! Show up at your Final Oral Interview on time!
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
