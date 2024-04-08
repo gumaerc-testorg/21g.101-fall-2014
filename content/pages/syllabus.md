@@ -18,7 +18,7 @@ Lectures: 4 sessions / week, 1 hour / session
 Selection Criteria of Registration
 ----------------------------------
 
-Enrollment limited to 16 for pedagogical reasons. No auditors. Please note that you have to attend the first day of class to maintain your preference level. In case of over-enrollment, preference will be given in the following order: Declared minors, declared concentrators, pre-registered students of [21G.076](https://dspace.mit.edu/bitstream/handle/1721.1/109489/21g-076-fall-2009/contents/index.htm?sequence=246), sophomores, freshmen, juniors, seniors and graduate students. Within each category, priority will be given to pre-registered students, including pre-registered undergraduates who were cut from the same class the previous fall semester due to the enrollment cap. Students with prior knowledge of Chinese must contact a Chinese language instructor for a placement test before beginning your studies of the Chinese language at MIT.
+Enrollment limited to 16 for pedagogical reasons. No auditors. Please note that you have to attend the first day of class to maintain your preference level. In case of over-enrollment, preference will be given in the following order: Declared minors, declared concentrators, pre-registered students of {{% resource_link "60457567-ff5a-43b6-a4b4-56c4896ab5c5" "21G.076" %}}, sophomores, freshmen, juniors, seniors and graduate students. Within each category, priority will be given to pre-registered students, including pre-registered undergraduates who were cut from the same class the previous fall semester due to the enrollment cap. Students with prior knowledge of Chinese must contact a Chinese language instructor for a placement test before beginning your studies of the Chinese language at MIT.
 
 Sign up for
 -----------
@@ -69,7 +69,7 @@ You will need all four textbooks right away!
 Academic Conduct
 ----------------
 
-Please go to the [MIT Plagiarism Website](http://integrity.mit.edu/) and read through the information carefully to prevent unintentional violations:
+Please go to the {{% resource_link "99896e73-f646-4197-b0c8-57ae0fb3d93a" "MIT Plagiarism Website" %}} and read through the information carefully to prevent unintentional violations:
 
 _"MIT assumes that all students come to the Institute for a serious purpose and expects them to be responsible individuals who demand of themselves high standards of honesty and personal conduct. Cheating, plagiarism, unauthorized collaboration, deliberate interference with the integrity of the work of others, fabrication or falsification of data, and other forms of academic dishonesty are considered serious offenses for which disciplinary penalties can be imposed."_
 
@@ -293,7 +293,7 @@ F = below 60
 
 {{< tableclose >}}
 
-Grades and comments will be recorded online on [Engrade](http://www.engrade.com/). You should check this daily to track your progress. If you have a question about a grade, ask your instructor. There is _no curve_ in this course. You are competing against the communicative demands of the language, not against each other. Each person will have to perform to receive credit; but there is nothing in the grading system to discourage any collaborative efforts to achieve the highest level of performance possible.
+Grades and comments will be recorded online on {{% resource_link "641cdf2b-65d1-4cdf-8331-6fb220fe2ae1" "Engrade" %}}. You should check this daily to track your progress. If you have a question about a grade, ask your instructor. There is _no curve_ in this course. You are competing against the communicative demands of the language, not against each other. Each person will have to perform to receive credit; but there is nothing in the grading system to discourage any collaborative efforts to achieve the highest level of performance possible.
 
 If you must miss a class, please let us know well in advance if possible. You will be allowed to make up no more than _Two_ missed classes in this course unless you provide a doctor's note or a note from your academic advisor to the instructor in advance. The make-ups will be conducted by the instructors by appointment and will cover the work missed. Make-ups are to be arranged within two days of your return to class; missed classes which are not made up within the above time frame or which exceed two in number will be entered as zeroes in your grade record. It is vital that you maintain communication with us if you ever miss a class. You are expected to be in class each hour ready to perform; we do not have the resources to set up a separate program for those who cannot make it to class each hour each day.
 
