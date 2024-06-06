@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/3c6505c37ec0567dad9367d9e838b5ed_MIT21G_101F14_Daily_Assessment_Chinese.vtt
+file_size: 2225
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

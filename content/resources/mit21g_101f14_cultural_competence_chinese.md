@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/7a9eb3cf6ecb588295b98d1646a66d39_MIT21G_101F14_Cultural_Competence_Chinese.pdf
+file_size: 107170
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
