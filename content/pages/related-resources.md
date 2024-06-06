@@ -61,10 +61,10 @@ When assigned, in \[BWCPE\], do parts A and B of the Reading and Writing Exercis
 For MIT students interested in working or teaching abroad:
 ----------------------------------------------------------
 
-1.  The {{% resource_link "6cfb22e3-c9af-409e-b93c-ae05dd1d2b6f" "MIT-China Program" %}}, one of the MISTI (MIT Science and Technology Initiative) programs, sponsors students working or teaching in Mainland China, Hong Kong, Taiwan, or Singapore for a summer, six months, or a school year.
+1.  The [MIT-China Program](https://misti.mit.edu/mit-china), one of the MISTI (MIT Science and Technology Initiative) programs, sponsors students working or teaching in Mainland China, Hong Kong, Taiwan, or Singapore for a summer, six months, or a school year.
 2.  CETI (Chinese Education and Technology Initiative), a student-run group affiliated with MISTI China, sponsors students teaching high-school students science and technology over the summer.
 
 For MIT students interested in studying abroad:
 -----------------------------------------------
 
-Check out the {{% resource_link "dec60d1d-024d-4f7c-bd25-7b571e1e1907" "Global Education Office website" %}} for opportunities and scholarships for studying Chinese.
+Check out the [Global Education Office website](https://calendar.mit.edu/department/global_education_office) for opportunities and scholarships for studying Chinese.

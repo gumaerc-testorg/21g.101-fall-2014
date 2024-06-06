@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/90de8a7166f658ae6e7bd8c19bbc0175_MIT21G_101F14_Study_Time_Chinese.pdf
+file_size: 70485
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

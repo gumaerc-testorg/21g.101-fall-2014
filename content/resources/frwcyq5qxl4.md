@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-101-chinese-i-regular-fall-2014/9311bc8084cc597dc28aad98003ff734_fRWCYq5qxL4.srt
+file_size: 2352
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
