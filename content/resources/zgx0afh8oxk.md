@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-101-chinese-i-regular-fall-2014/170b0a41ef22a2c004d5b48b3c0f8ae8_zGx0aFh8oxk.srt
+file: /ol-ocw-studio-app/courses/21g-101-chinese-i-regular-fall-2014/170b0a41ef22a2c004d5b48b3c0f8ae8_zGx0aFh8oxk.srt
 file_size: 5959
 file_type: application/x-subrip
 learning_resource_types: []
