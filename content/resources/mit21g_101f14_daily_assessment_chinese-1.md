@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-101-chinese-i-regular-fall-2014/5473e496e27d1c8cadfd69685b175a1f_MIT21G_101F14_Daily_Assessment_Chinese.srt
+file: /ol-ocw-studio-app/courses/21g-101-chinese-i-regular-fall-2014/5473e496e27d1c8cadfd69685b175a1f_MIT21G_101F14_Daily_Assessment_Chinese.srt
 file_size: 2264
 file_type: application/x-subrip
 learning_resource_types: []

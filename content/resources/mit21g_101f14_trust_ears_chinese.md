@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-101-chinese-i-regular-fall-2014/ddc689c3b13c716873bbe6dac4d9d376_MIT21G_101F14_Trust_Ears_Chinese.pdf
+file: /ol-ocw-studio-app/courses/21g-101-chinese-i-regular-fall-2014/ddc689c3b13c716873bbe6dac4d9d376_MIT21G_101F14_Trust_Ears_Chinese.pdf
 file_size: 76662
 file_type: application/pdf
 learning_resource_types: []
