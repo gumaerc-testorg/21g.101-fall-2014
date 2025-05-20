@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the approximate number of students who took the class.
-file: /ol-ocw-studio-app/courses/21g-101-chinese-i-regular-fall-2014/1ccf042fb4fe5660978a6379805d042a_40-approx.png
+file: /courses/21g-101-chinese-i-regular-fall-2014/1ccf042fb4fe5660978a6379805d042a_40-approx.png
 file_size: 23253
 file_type: image/png
 image_metadata:
