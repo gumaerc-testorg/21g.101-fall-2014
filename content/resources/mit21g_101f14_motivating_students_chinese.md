@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21g-101-chinese-i-regular-fall-2014/a194ac69915141df65c3fb99f427fc13_MIT21G_101F14_Motivating_Students_Chinese.srt
+file: /courses/21g-101-chinese-i-regular-fall-2014/a194ac69915141df65c3fb99f427fc13_MIT21G_101F14_Motivating_Students_Chinese.srt
 file_size: 1757
 file_type: application/x-subrip
 learning_resource_types: []
