@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-101-chinese-i-regular-fall-2014/10cea907588dea592a27bf452d847a54_MIT21G_101F14_Immersive_Environment_Chinese.pdf
+file: /ol-ocw-studio-app/courses/21g-101-chinese-i-regular-fall-2014/10cea907588dea592a27bf452d847a54_MIT21G_101F14_Immersive_Environment_Chinese.pdf
 file_size: 81698
 file_type: application/pdf
 learning_resource_types: []
