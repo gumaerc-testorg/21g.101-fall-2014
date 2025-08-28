@@ -34,11 +34,11 @@
     "website": "21g-101-chinese-i-regular-fall-2014"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Activity Assignments",
     "Instructor Insights"
   ],
   "site_uid": "ce29d65f-97ca-4c3b-91cd-691887bef659",
   "site_short_id": "21g.101-fall-2014",
+  "site_url_path": "courses/21g-101-chinese-i-regular-fall-2014",
   "title": "Course Metadata"
 }
