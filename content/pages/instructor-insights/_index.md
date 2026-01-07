@@ -100,7 +100,7 @@ Variety of majors, typically including one or two graduate students from the MIT
 
 ### Typical Student Background
 
-MIT does not have a foreign language requirement. Students who take this course do so because they understand that learning a foreign language has value. Some take the course to fulfill a personal interest. Others are interested in participating in the {{% resource_link "4e03c784-4fe1-424b-a972-f2aa5e4ac3c3" "MIT-China Program" %}} and want to develop their language skills in preparation for an internship or study abroad experience. Others are interested in majoring or minoring in Chinese.
+MIT does not have a foreign language requirement. Students who take this course do so because they understand that learning a foreign language has value. Some take the course to fulfill a personal interest. Others are interested in participating in the [MIT-China Program](http://misti.mit.edu/student-programs/location/china) and want to develop their language skills in preparation for an internship or study abroad experience. Others are interested in majoring or minoring in Chinese.
 
 ### Enrollment Cap
 
